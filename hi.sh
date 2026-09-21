@@ -1,3 +1,4 @@
+#This code is edited and made by AI.
 #!/bin/bash
 
 BREW_PREFIX="$HOME/homebrew"
